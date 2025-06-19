@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Bank System Python Project**
 - 🌱 I’m currently learning **FastAPI**, **Docker**, **Flask**
 - 💬 Ask me about: **Python, Flask, Git, PostgreSQL**
-- 📫 How to reach me: khasanbayev.dev@gmail.com
+- 📫 How to reach me: khasanbayev.7@mail.ru
 - ⚡ Fun fact: I love building unique command-based terminal apps.
 
 ---
@@ -20,8 +20,18 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" /></a>
-  <a href="https://t.me/yourtelegram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" /></a>
+  <a href="https://t.me/khasanbayev7" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+  </a>
+  <a href="https://www.instagram.com/khasanbayev.7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.youtube.com/@khasanbayev7" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
+  <a href="https://leetcode.com/u/khasanbayev7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  </a>
 </p>
 
 ---
