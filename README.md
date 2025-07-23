@@ -51,9 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khasanbayev-7&theme=dark" alt="khasanbayev-7" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanbayev-7&layout=compact&theme=dark" />
 </p>
