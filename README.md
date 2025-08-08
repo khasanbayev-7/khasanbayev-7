@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Easy Shop Backend Python Project**
-- 🌱 I’m currently learning **FastAPI**, **Docker**, **Flask**
+- 🔭 I’m currently working on **DRF**
+- 🌱 I’m currently learning **Django**, **Flask**
 - 💬 Ask me about: **Python, Flask, Git, PostgreSQL**
 - 📫 How to reach me: khasanbayev.7@mail.ru
 - ⚡ Fun fact: I love building unique command-based terminal apps.
