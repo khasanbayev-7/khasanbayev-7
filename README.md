@@ -36,7 +36,8 @@
 
 ### 🎓 Certifications
 
-- [Scientific Computing with Python - freeCodeCamp](https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7)
+
 
 ---
 
