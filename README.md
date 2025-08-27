@@ -34,6 +34,10 @@
   </a>
 </p>
 
+### 🎓 Certifications
+
+- [Scientific Computing with Python - freeCodeCamp](https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7)
+
 ---
 
 ### 🛠️ Languages and Tools
