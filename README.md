@@ -46,10 +46,16 @@
 <div align="center">
 
   <a href="https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_with_Python-brightgreen?logo=freecodecamp&style=for-the-badge" alt="freeCodeCamp Certificate"/>
+    <img src="https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_with_Python-success?logo=freecodecamp&style=flat-square" alt="freeCodeCamp Certificate"/>
   </a>
 
+  <br/><br/>
+
+  🏆 **Scientific Computing with Python**  
+  *Issued by freeCodeCamp*
+
 </div>
+
 
 
 ---
