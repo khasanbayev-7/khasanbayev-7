@@ -19,23 +19,6 @@
 - 📫 How to reach me: khasanbayev.7@mail.ru  
 - ⚡ Fun fact: I love building unique command-based terminal apps.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🌐 Connect with me
