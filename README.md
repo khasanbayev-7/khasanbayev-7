@@ -91,6 +91,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gydDNrazRqc2RnMHU5aXN2ejlscnBuZHFyYjRvYXo0cXQ5eHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" height="200" />
+</div>
+
 ---
 
 ### 📊 GitHub Stats
