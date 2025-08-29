@@ -19,7 +19,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMWU3eWhib3cwM2JldXAwajlueXlnbWh1NDYzaHRjczdiZHdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" 
        alt="Coding gif" 
        height="130" 
-       style="vertical-align: middle;"/>
+       style="align-items: center;"/>
 </p>
 
 ---
