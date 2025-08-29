@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freeCodeCamp Certificate"/>
   </a>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMWU3eWhib3cwM2JldXAwajlueXlnbWh1NDYzaHRjczdiZHdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem01ZXluMTViamlkM2R0dzY0OG5wdThoa3V2YTRmYWUxZGFxeDZ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" 
      alt="Coding gif" 
      height="120" 
      align="right" />
