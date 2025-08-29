@@ -43,9 +43,22 @@
 
 ### 🎓 Certifications
 
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <!-- Chap tarafdagi sertifikat -->
+  <div>
+    <a href="https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7">
+      <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freeCodeCamp Certificate"/>
+    </a>
+  </div>
 
----
+  <!-- O‘ng tarafdagi gif -->
+  <div>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem01ZXluMTViamlkM2R0dzY0OG5wdThoa3V2YTRmYWUxZGFxeDZ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" height="100" />
+  </div>
+
+</div>
+
 
 ### 🛠️ Languages and Tools
 
