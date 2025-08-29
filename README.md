@@ -99,24 +99,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khasanbayev-7&show_icons=true&theme=radical" alt="khasanbayev-7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanbayev-7&layout=compact&theme=dark" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khasanbayev-7&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/khasanbayev-7/khasanbayev-7/output/snake.svg" alt="Snake animation" />
