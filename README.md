@@ -8,12 +8,7 @@
 ---
 
 ### 🚀 About Me
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMWU3eWhib3cwM2JldXAwajlueXlnbWh1NDYzaHRjczdiZHdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" 
-       alt="Coding gif" 
-       height="130" 
-       style="align-items: center;"/>
-</p>
+
 - 🔭 I’m currently working on **DRF**  
 - 🌱 I’m currently learning **Django**, **Flask**  
 - 💬 Ask me about: **Python, Flask, Git, PostgreSQL**  
