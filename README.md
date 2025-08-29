@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=khasanbayev-7&label=Profile%20views&color=0e75b6&style=flat" alt="khasanbayev-7" />
 </p>
 
-### 🚀 About Me
+---
+
 <p align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMWU3eWhib3cwM2JldXAwajlueXlnbWh1NDYzaHRjczdiZHdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" 
        alt="Coding gif" 
@@ -13,7 +14,7 @@
        style="vertical-align: middle;"/>
 </p>
 
----
+### 🚀 About Me
 
 - 🔭 I’m currently working on **DRF**  
 - 🌱 I’m currently learning **Django**, **Flask**  
