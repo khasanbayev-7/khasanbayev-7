@@ -99,6 +99,8 @@
 </p>
 
 
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/khasanbayev-7/khasanbayev-7/output/snake.svg" alt="Snake animation" />
+
+###
