@@ -52,8 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlheWU5dWFmZWp3dzh1dXFicTZxaG5mZjZqNTViNHh5aWh3NDlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgLnOHV8mhaGk/giphy.gif" width="300" alt="fun gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwY3hiNzk5bDB4MjA2eG9vbGliMngxeWNsbTRyNnN4OWFheW5zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R8blTbKhRtJoQ/giphy.gif" width="300" alt="spiderman gif" />
 </p>
+
 
 ---
 
