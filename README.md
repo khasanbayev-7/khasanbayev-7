@@ -69,11 +69,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJpM284ancweHBoeGdscGlyeHFuNXBtZGJmcmt6cmlhcGI1NHhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wrBURfbZmqqXu/giphy.gif" width="300" alt="spiderman gif" />
+</p>
+
+
 
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="center">🛠️ Languages and Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
