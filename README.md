@@ -57,9 +57,17 @@
 
 ---
 
-### 🎓 Certifications
+<h3 align="center">🎓 Certifications</h3>
 
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp)](https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7)
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/khasanbayev7/scientific-computing-with-python-v7" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Certificate-brightgreen?logo=freecodecamp" alt="freecodecamp certificate" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/certificates/a44f9bf8afab" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=hackerrank&logoColor=white" alt="hackerrank certificate" />
+  </a>
+</p>
 
 
 
