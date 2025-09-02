@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwY3hiNzk5bDB4MjA2eG9vbGliMngxeWNsbTRyNnN4OWFheW5zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R8blTbKhRtJoQ/giphy.gif" width="300" alt="spiderman gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwY3hiNzk5bDB4MjA2eG9vbGliMngxeWNsbTRyNnN4OWFheW5zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R8blTbKhRtJoQ/giphy.gif" />
 </p>
 
 
