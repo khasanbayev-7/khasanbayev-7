@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khasanbayev</h1>
-<h3 align="center">💻 A passionate backend developer from Uzbekistan 🇺🇿</h3>
+<h1 align="center">Hi, I'm Khasanbayev Sobitxon</h1>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khasanbayev-7&label=Profile%20views&color=0e75b6&style=flat" alt="khasanbayev-7" />
@@ -7,17 +7,22 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1pMWU3eWhib3cwM2JldXAwajlueXlnbWh1NDYzaHRjczdiZHdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" 
      alt="Coding gif" 
      height="120" 
      align="right" />
 
-- 🔭 I’m currently working on **DRF**  
-- 🌱 I’m currently learning **Django**, **Flask**  
-- 💬 Ask me about: **Python, Flask, Git, PostgreSQL**  
-- 📫 How to reach me: khasanbayev.7@mail.ru  
-- ⚡ Fun fact: I love building unique command-based terminal apps.
+- 🔭 I’m currently working on **Multi-Social-Dashboard**
+- 👯 I’m looking to collaborate on **Backend and open-source projects (Python/Django)**
+- 🤝 I’m looking for help with **Backend best practices and contributing to open-source projects**  
+- 🌱 I’m currently learning **Django and REST Framework**  
+- 💬 Ask me about: **Python, Django, Flask, and backend development**  
+- 📫 How to reach me: **khasanbayev.7@mail.ru**
+- 👨‍💻 All of my projects are available at **https://khasanbayev7.netlify.app/**
+- 📝 I regularly write articles on **https://t.me/khasanbayevv7**
+- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/sobitxon-khasanbayev-128290373/)**
+- ⚡️ Fun fact: I enjoy solving backend bugs more than solving math problems 🤓
 
 
 ---
